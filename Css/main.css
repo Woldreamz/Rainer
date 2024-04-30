@@ -6,7 +6,7 @@
   }
 
 body {
-    color: #ededed;
+    color: #ededed;    
 }  
 
 .header {
@@ -60,6 +60,7 @@ body {
     background: url('https://i.postimg.cc/SsFkW6CB/wallpaperflare-com-wallpaper.jpg') no-repeat;
     background-attachment: cover;
     background-position: center;
+    background-size: cover;
     align-items: center;
     padding: 0 10%;
 }
